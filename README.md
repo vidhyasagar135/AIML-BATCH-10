@@ -10,6 +10,8 @@ VIDHYA SAGAR
 
 [LAB-3 ](https://github.com/vidhyasagar135/AIML-BATCH-10/blob/main/3.ipynb)
 
+[LAB-4 ](https://github.com/vidhyasagar135/AIML-BATCH-10/blob/main/LAB_AIML_04.ipynb)
+
 [LAB-5](https://github.com/vidhyasagar135/AIML-BATCH-10/blob/main/LAB_05.ipynb)
 
 [LAB-6](https://github.com/vidhyasagar135/AIML-BATCH-10/blob/main/lab6.ipynb)
