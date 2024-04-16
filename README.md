@@ -23,4 +23,4 @@ VIDHYA SAGAR
 
 [LAB-9](https://github.com/vidhyasagar135/AIML-BATCH-10/blob/main/LAB_09.ipynb)
 
-[LAB-10](https://github.com/vidhyasagar135/AIML-BATCH-10/blob/main/LAB_10.ipynb)
+[LAB-10](https://colab.research.google.com/drive/1UejwIsM-clIQVyfDiwSpYPH1sUYgsylV)
